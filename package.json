@@ -1,0 +1,19 @@
+{
+  "name": "menger-sponge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.1",
+    "three": "^0.156.1",
+    "vite": "^4.4.9"
+  }
+}
